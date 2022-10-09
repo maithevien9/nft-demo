@@ -1,0 +1,12 @@
+{
+  "dev": {},
+  "rinkeby": {
+    "Hero": ""
+  },
+  "main": {},
+  "goerli": {
+    "Hero": "0x3ad9e06a48f559087D1606487a0843d6FA0B2E1B",
+    "Enouvo": "0x79E8BC3f281c400dBD5951240A6D9b3ac154f9D2",
+    "HeroMarketplace": "0x4494E2cCDD00a3a30C433930991d49D39a32f15A"
+  }
+}
