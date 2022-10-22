@@ -11,5 +11,6 @@ contract Enouvo is ERC20("Enouvo", "ENV"), ERC20Burnable, Ownable {
 
     constructor() {
         console.log("owner: %s maxcap: %s", msg.sender, cap);
+        _mint(msg.sender, cap);
     }
 }
