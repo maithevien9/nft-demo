@@ -5,8 +5,8 @@
   },
   "main": {},
   "goerli": {
-    "Hero": "0x3ad9e06a48f559087D1606487a0843d6FA0B2E1B",
-    "Enouvo": "0x79E8BC3f281c400dBD5951240A6D9b3ac154f9D2",
+    "Hero": "0x7c508c480755d1EEe6d71e3a2177fcBAde7C9c98",
+    "Enouvo": "0x78bb263f59Bb72B38E286231aC7c75a59053De32",
     "HeroMarketplace": "0xAb6073bF4c6730c3eaaf741CDF97916d063Fe682"
   }
-}
+} 

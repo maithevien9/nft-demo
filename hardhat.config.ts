@@ -10,7 +10,7 @@ module.exports = {
       accounts: [process.env.PRIVATE_KEY],
     },
     goerli: {
-      url: 'https://eth-goerli.alchemyapi.io/v2/KvwwtPh9QIe1qEX7MaSUy0dDo8qqhSqn',
+      url: 'https://eth-goerli.alchemyapi.io/v2/TlPdG4Fk508PBBybFeejsjeRAgRKI8-D',
       accounts: [process.env.PRIVATE_KEY ?? ''],
     },
   },
